@@ -9,8 +9,6 @@ EcoSentinel Drone is an **autonomous environmental monitoring system** that dete
 -  Bluetooth communication with mobile app  
 -  Data logging and history tracking  
 
----
-
 ## Tech Tags  
 `Arduino` `IoT` `Sensors` `Bluetooth` `Embedded Systems` `Environmental Monitoring` `Drones`  
 
@@ -21,10 +19,8 @@ EcoSentinel Drone is an **autonomous environmental monitoring system** that dete
 - Manual drone control and calibration  
 
 ## Applications  
-- Oil spill detection and response  
-- Industrial wastewater monitoring  
-- Environmental research projects  
+- Oil spill detection and response   
 - Smart water quality monitoring  
 
 ## Screenshots  
-![Eco-Sentinel Drone](![WhatsApp Image 2025-09-03 at 1 38 10 PM](https://github.com/user-attachments/assets/c518dc11-cc24-4774-afed-4d6bd0c451ef)
+![WhatsApp Image 2025-09-03 at 1 38 10 PM](https://github.com/user-attachments/assets/c518dc11-cc24-4774-afed-4d6bd0c451ef)
