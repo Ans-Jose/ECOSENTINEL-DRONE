@@ -23,7 +23,7 @@ EcoSentinel Drone is an **autonomous environmental monitoring system** that dete
 - Smart water quality monitoring  
 
 ## Screenshots  
-![WhatsApp Image 2025-09-03 at 1 38 10 PM](https://github.com/user-attachments/assets/c518dc11-cc24-4774-afed-4d6bd0c451ef)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c518dc11-cc24-4774-afed-4d6bd0c451ef"/>
 
 ## Author
 ## *ANS JOSE*
